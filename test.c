@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-pritnf("coffee with rekha");
+printf("coffee with rekha");
 return 0;
 }
